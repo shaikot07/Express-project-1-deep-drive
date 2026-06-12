@@ -5,5 +5,4 @@ yarn.lock
 
 # Environment variables
 .verceltemp_auto_push.bat
-temp_auto_push.bat
-temp_interactive_push.bat
+
